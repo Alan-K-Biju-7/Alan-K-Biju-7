@@ -81,13 +81,13 @@
 ## 📊 GitHub Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alan-K-Biju-7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Alan-K-Biju-7&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alan-K-Biju-7&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alan-K-Biju-7&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alan-K-Biju-7&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alan-K-Biju-7&theme=github-compact&hide_border=true" />
 </p>
 
 ---
