@@ -1,4 +1,4 @@
-<!-- 🔥 BANNER (Replace this link with your custom one later) -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Alan%20K%20Biju&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20%7C%20AI%20Engineer%20%7C%20Building%20Real%20Systems&descAlignY=55&descSize=16"/>
 </p>
@@ -21,7 +21,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 - 🎓 CSBS Undergraduate @ RSET   
 - 🧾 Built **OCR-based invoice intelligence system (Patent Filed)**  
@@ -45,7 +45,7 @@
 
 ---
 
-## 🚀 What I Build
+## What I Build
 
 🔹 **AI Systems**  
 → OCR pipelines • LLM-based applications • structured data extraction  
@@ -72,11 +72,11 @@
 - Designed for **deep conceptual understanding**
 - Clean and interactive UI for learners  
 
-🚧 Improving performance + expanding algorithm coverage  
+ Improving performance + expanding algorithm coverage  
 
 ---
 
-## 📊 GitHub Dashboard
+## GitHub Dashboard
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Alan-K-Biju-7&show_icons=true&theme=tokyonight" height="180"/>
@@ -90,7 +90,7 @@
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 - Scaling AI systems for real-world deployment  
 - Backend performance optimization  
