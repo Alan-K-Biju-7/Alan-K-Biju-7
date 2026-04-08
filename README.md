@@ -20,7 +20,7 @@
 
 ## 🚀 Who I Am
 
-I’m a Computer Science undergraduate at RSET (CGPA: 9.0) focused on building **real-world backend systems and AI-powered applications**.
+I’m a Computer Science and Business Systems undergraduate at RSET focused on building **real-world backend systems and AI-powered applications**.
 
 I specialize in:
 - Designing scalable backend architectures  
@@ -31,37 +31,37 @@ I don’t just learn concepts — I build systems that work in real environments
 
 ---
 
-## 🧠 What I Build
+## ⚡ Technologies & Tools
 
-### 🔹 AI-Powered Systems
-- OCR pipelines for extracting structured data from real-world documents  
-- LLM-based content generation systems with validation pipelines  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,react,fastapi,postgres,docker,redis,git,github,aws" />
+</p>
 
-### 🔹 Backend Engineering
-- REST APIs using FastAPI  
-- Distributed task processing (Celery, Redis)  
-- Data pipelines for processing and validation  
+## 🧠 Core Expertise
 
-### 🔹 Real-World Applications
-- Systems designed for scalability, accuracy, and production usage  
+<p align="center">
+  
+🔹 **AI Systems** → OCR Pipelines • LLM Integration • Applied AI  
+🔹 **Backend Engineering** → FastAPI • REST APIs • Data Pipelines  
+🔹 **Distributed Systems** → Celery • Redis • Async Processing  
+🔹 **Databases** → PostgreSQL  
+🔹 **Frontend** → React • JavaScript  
+
+</p>
+
+## 🚀 Featured Work
+
+### 🧾 Waresys — OCR Intelligence System
+- Extracts structured data from invoices using OCR pipelines  
+- Designed scalable backend processing workflows  
+- 📌 Patent filed  
 
 ---
 
-## 🏆 Proof of Work
-
-### 🧾 Waresys — OCR-Based Inventory Intelligence
-- Built backend for extracting and structuring invoice data  
-- Designed scalable processing pipelines  
-- Worked with real-world datasets  
-- 📌 Patent filed for system architecture  
-
-### 🤖 MarketFlow AI — Content Generation Engine
-- Converts a website into full social media content packs  
-- LLM integration with strict schema validation  
-- Backend APIs for automated content workflows  
-
-### 🏁 Hackathon Experience
-- IIT Palakkad Neurobots Hackathon (Backend & AI Developer)
+### 🤖 MarketFlow AI — Content Engine
+- Converts websites into full social media content packs  
+- LLM-powered backend with validation pipelines  
+- Built using FastAPI + React  
 
 ---
 
@@ -76,22 +76,6 @@ I don’t just learn concepts — I build systems that work in real environments
 
 ---
 
-## ⚙️ Tech Stack
-
-### 🧠 AI / ML
-Python • OCR Pipelines • LLM Integration • Applied AI  
-
-### 🛠 Backend
-FastAPI • REST APIs • PostgreSQL  
-
-### ⚡ Systems
-Docker • Redis • Celery  
-
-### 🎨 Frontend
-React • JavaScript • HTML • CSS  
-
----
-
 ## 📈 Current Focus
 
 - Scaling AI systems for real-world deployment  
@@ -100,23 +84,24 @@ React • JavaScript • HTML • CSS
 
 ---
 
-## 📊 GitHub Activity
+## 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alan-K-Biju-7&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alan-K-Biju-7&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alan-K-Biju-7&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
 
 ## 🤝 Let's Connect
 
-I’m always open to:
-- Internships  
-- Collaborations  
-- Backend / AI roles  
-
-📩 Reach me at: **alan.k.biju25@gmail.com**
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:alan.k.biju25@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://github.com/Alan-K-Biju-7">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
