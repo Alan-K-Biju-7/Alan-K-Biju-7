@@ -51,19 +51,15 @@ I don’t just learn concepts — I build systems that work in real environments
 
 ---
 
-## 📈 Current Focus
+## 🛠 Currently Building
 
-- Scaling AI systems for real-world deployment  
-- Improving backend performance and architecture  
-- Building production-ready AI products  
+### ⚡ AlgoVista — Algorithm Visualization Platform
+- Interactive platform to **visualize algorithms in real-time**
+- Helps understand complex concepts through **step-by-step execution**
+- Focused on **clean UI + intuitive learning experience**
+- Built with **React (frontend)** and scalable architecture in progress  
 
----
-
-## 📊 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alan-K-Biju-7&theme=tokyo-night&hide_border=true&area=true" />
-</p>
+🚧 Currently improving performance, adding more algorithms, and enhancing UI/UX
 
 ---
 
