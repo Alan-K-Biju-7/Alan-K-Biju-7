@@ -74,8 +74,6 @@
 
 🚧 Improving performance + expanding algorithm coverage  
 
-🔗 [View Project](https://github.com/Alan-K-Biju-7)
-
 ---
 
 ## 📊 GitHub Dashboard
