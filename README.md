@@ -49,31 +49,6 @@ I don’t just learn concepts — I build systems that work in real environments
 
 </p>
 
-## 🚀 Featured Work
-
-### 🧾 Waresys — OCR Intelligence System
-- Extracts structured data from invoices using OCR pipelines  
-- Designed scalable backend processing workflows  
-- 📌 Patent filed  
-
----
-
-### 🤖 MarketFlow AI — Content Engine
-- Converts websites into full social media content packs  
-- LLM-powered backend with validation pipelines  
-- Built using FastAPI + React  
-
----
-
-## 💼 Experience
-
-**AI/ML Intern — NEST Digital**
-- Worked on ML workflows: preprocessing, training, validation  
-
-**Web Development Intern — Webandcrafts**
-- Built responsive UIs with real client workflows  
-- Followed industry coding and UI standards  
-
 ---
 
 ## 📈 Current Focus
