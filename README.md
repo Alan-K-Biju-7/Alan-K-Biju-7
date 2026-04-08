@@ -21,12 +21,12 @@
 
 ---
 
-## About Me
+##  About Me
 
-- 🎓 CSBS Undergraduate @ RSET   
-- 🧾 Built **OCR-based invoice intelligence system (Patent Filed)**  
-- 🤖 Focused on **AI systems + backend architecture**  
-- ⚡ I build systems that go beyond demos → **real-world usable**
+-  Computer Science and Business Systems Undergraduate @ RSET   
+-  Built **OCR-based invoice intelligence system (Patent Filed)**  
+-  Focused on **AI systems + backend architecture**  
+-  I build systems that go beyond demos → **real-world usable**
 
 ---
 
