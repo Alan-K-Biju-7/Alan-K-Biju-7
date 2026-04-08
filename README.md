@@ -1,8 +1,11 @@
-<h1 align="center">Alan K Biju</h1>
-
+<!-- 🔥 BANNER (Replace this link with your custom one later) -->
 <p align="center">
-  Backend & AI Engineer • Building Scalable Systems • Applied AI Developer
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Alan%20K%20Biju&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20%7C%20AI%20Engineer%20%7C%20Building%20Real%20Systems&descAlignY=55&descSize=16"/>
 </p>
+
+<h3 align="center">
+  Backend & AI Engineer • Applied AI • Scalable Systems
+</h3>
 
 <p align="center">
   <a href="mailto:alan.k.biju25@gmail.com">
@@ -18,52 +21,86 @@
 
 ---
 
-## 🚀 Who I Am
+## 🧠 About Me
 
-I’m a Computer Science and Business Systems undergraduate at RSET focused on building **real-world backend systems and AI-powered applications**.
-
-I specialize in:
-- Designing scalable backend architectures  
-- Building AI pipelines (OCR, LLM integration)  
-- Creating production-ready APIs and workflows  
-
-I don’t just learn concepts — I build systems that work in real environments.
+- 🎓 CSBS Undergraduate @ RSET   
+- 🧾 Built **OCR-based invoice intelligence system (Patent Filed)**  
+- 🤖 Focused on **AI systems + backend architecture**  
+- ⚡ I build systems that go beyond demos → **real-world usable**
 
 ---
 
-## ⚡ Technologies & Tools
+## ⚡ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,react,fastapi,postgres,docker,redis,git,github,aws" />
 </p>
 
-## 🧠 Core Expertise
-
 <p align="center">
-  
-🔹 **AI Systems** → OCR Pipelines • LLM Integration • Applied AI  
-🔹 **Backend Engineering** → FastAPI • REST APIs • Data Pipelines  
-🔹 **Distributed Systems** → Celery • Redis • Async Processing  
-🔹 **Databases** → PostgreSQL  
-🔹 **Frontend** → React • JavaScript  
-
+  <img src="https://img.shields.io/badge/AI-OCR%20%7C%20LLM-blue"/>
+  <img src="https://img.shields.io/badge/Backend-FastAPI%20%7C%20REST-green"/>
+  <img src="https://img.shields.io/badge/Systems-Redis%20%7C%20Celery-orange"/>
+  <img src="https://img.shields.io/badge/Database-PostgreSQL-yellow"/>
 </p>
+
+---
+
+## 🚀 What I Build
+
+🔹 **AI Systems**  
+→ OCR pipelines • LLM-based applications • structured data extraction  
+
+🔹 **Backend Engineering**  
+→ FastAPI • REST APIs • scalable architectures  
+
+🔹 **Distributed Systems**  
+→ async workflows • task queues • real-time processing  
 
 ---
 
 ## 🛠 Currently Building
 
 ### ⚡ AlgoVista — Algorithm Visualization Platform
-- Interactive platform to **visualize algorithms in real-time**
-- Helps understand complex concepts through **step-by-step execution**
-- Focused on **clean UI + intuitive learning experience**
-- Built with **React (frontend)** and scalable architecture in progress  
 
-🚧 Currently improving performance, adding more algorithms, and enhancing UI/UX
+<p>
+  <img src="https://img.shields.io/badge/React-Frontend-blue?logo=react"/>
+  <img src="https://img.shields.io/badge/DSA-Algorithms-orange"/>
+  <img src="https://img.shields.io/badge/UI-Interactive-green"/>
+</p>
+
+- Visualizes algorithms in **step-by-step execution**
+- Designed for **deep conceptual understanding**
+- Clean and interactive UI for learners  
+
+🚧 Improving performance + expanding algorithm coverage  
+
+🔗 [View Project](https://github.com/Alan-K-Biju-7)
 
 ---
 
-## 🤝 Let's Connect
+## 📊 GitHub Dashboard
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alan-K-Biju-7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" height="180"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alan-K-Biju-7&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alan-K-Biju-7&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+---
+
+## 🎯 Current Focus
+
+- Scaling AI systems for real-world deployment  
+- Backend performance optimization  
+- Building production-ready AI products  
+
+---
+
+## 🤝 Let’s Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR-LINK">
@@ -71,8 +108,5 @@ I don’t just learn concepts — I build systems that work in real environments
   </a>
   <a href="mailto:alan.k.biju25@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://github.com/Alan-K-Biju-7">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
   </a>
 </p>
