@@ -14,7 +14,7 @@
   <a href="https://github.com/Alan-K-Biju-7">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
   </a>
-  <a href="https://www.linkedin.com">
+  <a href="https://www.linkedin.com/in/alan-k-biju-30aa25374/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
   </a>
 </p>
@@ -33,14 +33,14 @@
 ## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python, cpp, js, react, fastapi, postgres, mongodb, redis, docker, git, github" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,react,fastapi,postgres,mongodb,redis,docker,linux,tensorflow,pytorch,firebase,nodejs,git,github&perline=8" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI-OCR%20%7C%20LLM-blue"/>
   <img src="https://img.shields.io/badge/Backend-FastAPI%20%7C%20REST-green"/>
   <img src="https://img.shields.io/badge/Systems-Redis%20%7C%20Celery-orange"/>
-  <img src="https://img.shields.io/badge/Database-PostgreSQL-yellow"/>
+  <img src="https://img.shields.io/badge/Database-PostgreSQL%20%7C%20MongoDB-yellow"/>
 </p>
 
 ---
@@ -103,7 +103,7 @@
 ## 🤝 Let’s Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINK">
+  <a href="https://www.linkedin.com/in/alan-k-biju-30aa25374/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:alan.k.biju25@gmail.com">
