@@ -33,7 +33,7 @@
 ## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,react,fastapi,postgres,docker,redis,git,github,aws" />
+  <img src="https://skillicons.dev/icons?i=python, cpp, js, react, fastapi, postgres, mongodb, redis, docker, git, github" />
 </p>
 
 <p align="center">
