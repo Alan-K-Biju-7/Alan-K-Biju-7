@@ -98,7 +98,7 @@
 
 ---
 
-## 🤝 Let’s Connect
+## Let’s Connect😊
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alan-k-biju-30aa25374/">
