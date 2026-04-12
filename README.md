@@ -79,13 +79,13 @@
 ## GitHub Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Alan-K-Biju-7&show_icons=true&theme=tokyonight&count_private=true" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Alan-K-Biju-7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
   
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Alan-K-Biju-7&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Alan-K-Biju-7&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=6" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alan-K-Biju-7&theme=github-compact&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alan-K-Biju-7&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
