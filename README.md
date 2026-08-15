@@ -79,9 +79,9 @@
 ## GitHub Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Alan-K-Biju-7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alan-K-Biju-7&theme=tokyonight" alt="Alan K Biju's GitHub stats" />
   
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Alan-K-Biju-7&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=6" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alan-K-Biju-7&theme=tokyonight" alt="Alan K Biju's top languages by repository" />
 </p>
 
 <p align="center">
